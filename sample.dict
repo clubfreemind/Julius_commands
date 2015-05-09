@@ -1,0 +1,27 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[RESPOND]	r ix s p aa n d
+3	[CHECK]	ch eh k
+3	[OPEN]	ow p ax n
+3	[STOP]	s t aa p
+3	[CLOSE]	k l ow s
+3	[TELL]	t eh l
+3	[RESUME]	r ix z uw m
+3	[NEXT]	n eh k s t
+3	[PREVIOUS]	p r iy v iy ax s
+3	[ZERO]	z ih r ow
+3	[COMPLETE]	k ax m p l iy t
+3	[HALF]	hh ae f
+3	[FULLSCREEN]	f ax l s k r iy n
+3	[LOCK]	l aa k
+4	[SONG]	s ao ng
+4	[VIDEO]	v ih dx iy ow
+4	[BRIGHTNESS]	b r ay t n ax s
+4	[VOLUME]	v aa l y uw m
+4	[FOX]	f aa k s
+4	[EMAIL]	ix m ey l
+4	[COMPUTER]	k ax m p y uw dx er
+4	[LISTENING]	l ih s ax n ix ng
+5	[OPEN]	ow p ax n
+6	[COMMAND]	k ax m ae n d
+7	[CENTER]	s eh n t er

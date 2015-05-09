@@ -1,0 +1,2 @@
+#!/bin/bash
+padsp julius -input mic -C julian.jconf | ./getcommand.py 
